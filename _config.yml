@@ -1,6 +1,6 @@
 title: "Master Eye Security"
 email: mastereyeservices@gmail.com
-
+baseurl: /mastereyesecurity
 timezone: UTC
 url: 'https://mastereyesecurityservicesltd.com.ng'
 permalink: "/:title/"
